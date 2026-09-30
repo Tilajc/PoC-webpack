@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+  background: #f5f7fa;
+}
+nav {
+  margin-bottom: 1.5rem;
+}
+h1 {
+  color: #1c78c0;
+}
+img {
+  width: 80px;
+}
